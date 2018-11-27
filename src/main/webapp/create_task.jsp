@@ -38,7 +38,7 @@
         </select><p>
         <label>Description:</label>
         <input class="w3-input" type="text" name = "description"></p>
-         <p><input class="w3-btn w3-teal" type="submit" name = "Create"></p>
+         <p><input class="w3-btn w3-teal" type="submit" name = "Create" value = "Create"></p>
       </form>
     </div>
 
